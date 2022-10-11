@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social-icons-app/static/css/main.a41999a8.css",
+    "main.js": "/social-icons-app/static/js/main.81f35e45.js",
+    "index.html": "/social-icons-app/index.html",
+    "main.a41999a8.css.map": "/social-icons-app/static/css/main.a41999a8.css.map",
+    "main.81f35e45.js.map": "/social-icons-app/static/js/main.81f35e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41999a8.css",
+    "static/js/main.81f35e45.js"
+  ]
+}
